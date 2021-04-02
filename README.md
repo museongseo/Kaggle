@@ -1,4 +1,4 @@
 # Kaggle
 ---------------------------------------
-Titanic - Machine Learning from Disaster (21.03.09 ~ )
+Titanic - Machine Learning from Disaster (21.03.09. ~ 21.04.02.)
 ---------------------------------------
